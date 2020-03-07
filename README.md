@@ -1,8 +1,8 @@
 # CS 100 Programming Project
 # Project Info 
 * Fall Quarter 2019 
-* Christopher Clemm 862081339
-* Daniel Cueva 861225171
+* Christopher Clemm 
+* Daniel Cueva 
 
 # Introduction/Updates
 * We are creating an Rshell that can take in command line inputs and excute the commands the user wants. n
