@@ -16,7 +16,7 @@
 * We were able to parse the objects correctly and we able to work with the persmissions of the files
 * We updated our CMAKELISTS file in order to work with the autograder.
 * Our program also works with the past implementions of other assignments. 
-* We were not able to get a good running of pipe in the class because basic things just were not working on it and the deadline was coming up
+
 
   
 # Diagram
