@@ -1,5 +1,4 @@
 # CS 100 Programming Project
-# Project Info 
 
 
 # Introduction/Updates
