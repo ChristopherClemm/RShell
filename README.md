@@ -1,11 +1,9 @@
 # CS 100 Programming Project
 # Project Info 
-* Fall Quarter 2019 
-* Christopher Clemm 
-* Daniel Cueva 
+
 
 # Introduction/Updates
-* We are creating an Rshell that can take in command line inputs and excute the commands the user wants. n
+* We are creating an Rshell that can take in command line inputs and excute the commands the user wants.
 * The shell is now able to handle parenthesis and check to see if a file or direcotry exists. 
 * The shell will be able to interpret the user input and push it through the appropiate classes in order to execute the command properly.
 * The executable file can be any program located at a given path.
